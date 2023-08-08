@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "649b02f21355e26da59318f8"
+  },
+  "to": "/courses/angular",
+  "img": "slide1.jpg",
+  "a": "Angular",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b03481355e26da59318fa"
+  },
+  "to": "/courses/reactJS",
+  "img": "slide2.png",
+  "a": "React JS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b03641355e26da59318fc"
+  },
+  "to": "/courses/nodeJS",
+  "img": "slide3.png",
+  "a": "Node JS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b038d1355e26da59318fe"
+  },
+  "to": "/courses/flutter",
+  "img": "slide5.png",
+  "a": "Flutter",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b03be1355e26da5931900"
+  },
+  "to": "/courses/reactNative",
+  "img": "slide6.png",
+  "a": "React Native",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b03e71355e26da5931902"
+  },
+  "to": "/courses/uiux",
+  "img": "slide7.jpg",
+  "a": "UI /UX Designing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b040a1355e26da5931904"
+  },
+  "to": "/courses/webDesigning",
+  "img": "slide8.png",
+  "a": "Web Designing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b046b1355e26da5931908"
+  },
+  "to": "/courses/wordpress",
+  "img": "slide9.png",
+  "a": "WordPress Developer",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b04a31355e26da593190a"
+  },
+  "to": "/courses/vueJS",
+  "img": "slide10.png",
+  "a": "Vue JS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b04df1355e26da593190c"
+  },
+  "to": "/courses/asp.netmvc",
+  "img": "slide11.png",
+  "a": "ASP.NET MVC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b05011355e26da593190e"
+  },
+  "to": "/courses/asp.netcore",
+  "img": "slide12.png",
+  "a": "ASP.NET Core",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b05241355e26da5931910"
+  },
+  "to": "/courses/corePHP",
+  "img": "slide13.png",
+  "a": "Core PHP",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b05631355e26da5931912"
+  },
+  "to": "/courses/coreigniter",
+  "img": "slide14.png",
+  "a": "Codeigniter (PHP framework)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b05661355e26da5931914"
+  },
+  "to": "/courses/coreigniter",
+  "img": "slide14.png",
+  "a": "Codeigniter (PHP framework)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b05841355e26da5931916"
+  },
+  "to": "/courses/laravel",
+  "img": "slide15.png",
+  "a": "Laravel (PHP framework)",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b05db1355e26da5931918"
+  },
+  "to": "/courses/android",
+  "img": "slide16.png",
+  "a": "Android",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b05fc1355e26da593191a"
+  },
+  "to": "/courses/ios",
+  "img": "slide17.png",
+  "a": "iOS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b06271355e26da593191c"
+  },
+  "to": "/courses/marketing",
+  "img": "slide18.png",
+  "a": "Digital Marketing",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b06551355e26da593191e"
+  },
+  "to": "/courses/cprogramming",
+  "img": "slide19.png",
+  "a": "C Programming",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b068b1355e26da5931920"
+  },
+  "to": "/courses/c++",
+  "img": "slide20.png",
+  "a": "C++ Programming",
+  "__v": 0
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "649ad1ba71c63296d70a7918"
+  },
+  "icon": "fa-solid fa-book",
+  "h2": "Corporate IT Courses",
+  "p": "Courses are designed as per the latest skills required in company.",
+  "color": "#008DD2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649ad22e71c63296d70a791a"
+  },
+  "icon": "fa-solid fa-chalkboard-user",
+  "h2": "Experienced Faculty",
+  "p": "IT experts will provide training to meet company's need.",
+  "color": "#404040",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649ad2a871c63296d70a791c"
+  },
+  "icon": "fa-solid fa-check-double",
+  "h2": "100% Job Placement",
+  "p": "Attend job interviews conducted by our team and get placed.",
+  "color": "#008DD2",
+  "__v": 0
+}]

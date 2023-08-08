@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64a67240d43f100b19a3a0c6"
+  },
+  "name": "OscarCareerPointAdmin",
+  "email": "info@oscarccareerpoint.com",
+  "role": "admin",
+  "password": "oscarsAdmin2023",
+  "createdAt": {
+    "$date": "2023-07-06T07:50:24.077Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-06T07:50:24.077Z"
+  },
+  "__v": 0
+}]

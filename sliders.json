@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "649a8663ac365e939d2907b6"
+  },
+  "image": "oscar-career-point-banner.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a867dac365e939d2907b8"
+  },
+  "image": "react-js.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a8691ac365e939d2907ba"
+  },
+  "image": "full-stack-MERN.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a86a1ac365e939d2907bc"
+  },
+  "image": "full-stack-MEAN.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a86afac365e939d2907be"
+  },
+  "image": "mobile-app-development.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a86c0ac365e939d2907c0"
+  },
+  "image": "frontend-course-angular.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a86ceac365e939d2907c2"
+  },
+  "image": "backend-node.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a86e0ac365e939d2907c4"
+  },
+  "image": "digital-marketing.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649a86efac365e939d2907c6"
+  },
+  "image": "ui-ux-designing.jpg",
+  "__v": 0
+}]

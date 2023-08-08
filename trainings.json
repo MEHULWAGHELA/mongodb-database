@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "649b092a78994f1130d5bc74"
+  },
+  "icon": "fa-solid fa-chalkboard-teacher",
+  "p": "Expert Professionals",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b095978994f1130d5bc76"
+  },
+  "icon": "fa-solid fa-laptop-code",
+  "p": "Corporate Training",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b097378994f1130d5bc78"
+  },
+  "icon": "fa-solid fa-hands-helping",
+  "p": "Complete Hands On",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b098978994f1130d5bc7a"
+  },
+  "icon": "fa-solid fa-book-open",
+  "p": "Job Oriented Syllabus",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b09a378994f1130d5bc7c"
+  },
+  "icon": "fa-solid fa-user-graduate",
+  "p": "100% Job Assistance",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b09b678994f1130d5bc7e"
+  },
+  "icon": "fa-solid fa-user-check",
+  "p": "Mock Interviews",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b0a3b78994f1130d5bc80"
+  },
+  "icon": "fa-solid fa-money-bill",
+  "p": "Affordable Fees",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b0a5878994f1130d5bc82"
+  },
+  "icon": "fa-solid fa-laptop",
+  "p": "Free Demo Available",
+  "__v": 0
+}]

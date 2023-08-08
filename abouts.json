@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "649ec2530103379c8ed1ee55"
+  },
+  "icon": "fa-solid fa-handshake",
+  "h3": "7 Years Of Experience",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649ec26a0103379c8ed1ee57"
+  },
+  "icon": "fa-solid fa-newspaper",
+  "h3": "Trendy It Cources",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649ec2ac0103379c8ed1ee59"
+  },
+  "icon": "fa-solid fa-user",
+  "h3": "Experienced Faculties",
+  "__v": 0
+}]

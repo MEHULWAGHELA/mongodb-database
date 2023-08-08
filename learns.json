@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "649b152bf738d28b6932c93d"
+  },
+  "icon": "fa-solid fa-lightbulb",
+  "h5": "Logical Idea",
+  "bg": "#307ad5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b1549f738d28b6932c93f"
+  },
+  "icon": "fa-solid fa-laptop",
+  "h5": "Web Designing",
+  "bg": "#d94da6",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b1563f738d28b6932c941"
+  },
+  "icon": "fa-solid fa-globe",
+  "h5": "Front End Development",
+  "bg": "#1ec1d9",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b1578f738d28b6932c943"
+  },
+  "icon": "fa-solid fa-laptop-code",
+  "h5": "Back End Development",
+  "bg": "#10c45c",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649b1596f738d28b6932c945"
+  },
+  "icon": "fa-solid fa-mobile",
+  "h5": "Mobile Technologies",
+  "bg": "#bc294e",
+  "__v": 0
+}]
